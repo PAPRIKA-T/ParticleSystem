@@ -2,6 +2,7 @@
 A simple particle canvas using JS
 
 # Demo
+![demo](./demo.png)
 
 # Usage
 Download the ParticleCanvas.vue file and add in your project   
